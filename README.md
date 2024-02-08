@@ -6,7 +6,8 @@
 print("Hello, World!")
 ```
 
-**Python If-Else""
+***Python If-Else***
+
 ![alt text](https://github.com/AkashKobal/hackerrank-python-sloution/blob/main/questions/Python%20If-Else.png)
 ```
 import math
