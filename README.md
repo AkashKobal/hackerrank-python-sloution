@@ -61,5 +61,5 @@ if __name__ == '__main__':
     fptr.write(' '.join(map(str, res)))
     fptr.write('\n')
 
-    fptr.close()
+    fptr.close() 
 ```
