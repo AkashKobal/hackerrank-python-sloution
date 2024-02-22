@@ -27,7 +27,7 @@ elif n in range(6, 21):
 else:  
     print("Not Weird") 
 ```
-## Array reverse
+## Array reverse 
 ![alt text](https://github.com/AkashKobal/hackerrank-python-sloution/blob/main/questions/reverse%20array.png)
 ```
 
