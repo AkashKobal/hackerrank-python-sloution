@@ -2,14 +2,14 @@
 ## Say "Hello, World!" With Python   
 
 ![alt text](https://github.com/AkashKobal/hackerrank-python-sloution/blob/main/questions/Say%20Hello%2C%20World!%20With%20Python.png)
-```
+```python
 print("Hello, World!")  
 ```   
   
 ## Python If-Else 
 
 ![alt text](https://github.com/AkashKobal/hackerrank-python-sloution/blob/main/questions/Python%20If-Else.png)
-``` 
+```python 
 import math
 import os
 import random
@@ -29,7 +29,7 @@ else:
 ```
 ## Array reverse 
 ![alt text](https://github.com/AkashKobal/hackerrank-python-sloution/blob/main/questions/reverse%20array.png)
-```
+```python
 
 import math
 import os
